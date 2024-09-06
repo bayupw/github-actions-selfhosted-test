@@ -1,4 +1,4 @@
-name: GitHub Actions Self-Hosted Test
+name: GitHub Actions Self Hosted Test
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
